@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #f8f9fa;
+}
+nav{
+    background-color: #3a5a40;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#btn{
+    margin-top: 23vh;
+    
+    border-radius: 7px;
+    margin-bottom: 20vh;
+    border-radius: 5px;
+    
+    text-align: center;
+    
+}
+button{
+    border-radius: 5px;
+    background-color: #bde0fe; 
+
+    color: green;
+}
+.git{
+   
+    text-decoration: none;
+    background-color: #c7f9cc;
+    display: inline;
+    display: flex;
+    justify-content: space-around; 
+}
+.project{
+    margin-top: 10vh;
+    text-align: center;
+    
+}
+.d{
+    display: block;
+    color: #3a86ff;
+    text-decoration: none;
+    margin-bottom: 6vh;
+} 
+
+#pheading{
+    margin-top: 20vh;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: rgb(62, 54, 54);
+    color: #fff;
+}
