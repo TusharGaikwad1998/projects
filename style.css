@@ -1,0 +1,15 @@
+   body{
+       margin-left: 25%;
+    background-color:#bfd8bd;
+    color: #212121;
+
+   }
+   input{
+   display: block;
+   background-color:#bfd8bd;
+    }
+    
+    button{
+        margin-top: 10px;
+        display: block;
+    }
