@@ -1,0 +1,61 @@
+/* // ddigital clock code
+
+*{
+    padding: 0;
+    margin: 0;
+   text-align: center;
+}
+div{
+    padding: 30px;
+    background-color: darkorange;
+    border: black solid 2px;
+    border-radius: 5px;
+    display: inline;
+}
+p{
+background-color: white;
+margin: 10px;
+margin: 50px;
+} */
+
+
+body{
+    background-color: black;
+}
+
+
+#start{
+    padding: 1vh 4vh 1vh 4vh;
+    background-color: green;
+    color: #fff;
+    }
+
+#stop{
+    padding: 1vh 4vh 1vh 4vh;
+    background-color: red;
+    color: #fff;
+
+}
+#reset{
+    padding: 1vh 4vh 1vh 4vh;
+    background-color: yellow;
+    color: green;
+    
+    
+} 
+#time{
+    text-align: center;
+    align-items: center;
+    color: white; 
+    margin-top: 20px;
+    align-items: center;
+    font-size: large;
+   
+}
+#btn{
+    text-align: center;
+    align-items: center;
+    display: block;
+    margin-top: 20vw;
+    
+}
